@@ -1,4 +1,4 @@
-[README (4).md](https://github.com/user-attachments/files/27714631/README.4.md)# Akıllı Etkinlik Katılım Sistemi
+# Akıllı Etkinlik Katılım Sistemi
 
 **Akıllı Etkinlik Katılım Sistemi**, Programlama Dilleri dersi kapsamında C# programlama dili ile geliştirilmiş konsol tabanlı bir mini etkinlik katılım uygulamasıdır. Proje, bir üniversitede düzenlenen etkinliklere öğrencilerin kayıt olabildiği, etkinliklerin listelenebildiği, kontenjan kontrolünün yapılabildiği ve katılım durumlarının yönetilebildiği sade bir sistem olarak hazırlanmıştır.
 
